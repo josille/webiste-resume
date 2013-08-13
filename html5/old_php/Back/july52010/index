@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Rodrigo J. De la garza</title>
+<link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+<script type="text/javascript" language="javascript" src="js/lytebox.js"></script>
+<link rel="stylesheet" href="css/lytebox.css" type="text/css" media="screen" />
+<script type="text/javascript" language="javascript" src="js/jquery.min.js"></script>
+<!--[if lt IE 7]>
+<script type="text/javascript" src="js/pngfix.js"></script>
+<![endif]-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17181184-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<div id="navi">
+  <ul class="navigation">
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#aboutme">About me</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</div>
+<div id="top"></div>
+<div id="page">
+  <div class="page-in">
+    <div id="datacontent">
+      <div class="about clearfix">
+        <h1> Rodrigo J. De la garza </h1>
+        <p> </p>
+      </div>
+    </div>
+    <div class="wrapper" >
+      <div id="contact" >
+        <div class="main_content"> <img src="images/me.jpg" alt="My WordPress Blog"/>
+          <div class="about clearfix"></div>
+          <div class="row"><span class="field_l i_mail">E-Mail:</span><span class="field_r"><a href="mailto:josille@gmail.com">josille@gmail.com</a></span></div>
+          <div class="row"><span class="field_l i_aboutme">ME :</span><span class="field_r">I am Spanish, born Mexican  Web and Software developer. I hold a Masters Degree in Internet and Web technologies from RMIT University in Melbourne,Australia and a Graduate Degree in Computer Systems Engineering from Monterrey University of Technology in Mexico City.</span></div>
+        </div>
+      </div>
+      <div id="aboutme" >
+        <div class="aboutmeInner"><strong>
+          <p class="firstLine">I'm a Spanish, born Mexican Web 2.0 and Software developer. </p>
+          <p> I hold a Masters Degree in Internet and Web technologies from RMIT University in Melbourne,Australia and a Graduate Degree in Computer Systems Engineering from Monterrey University of Technology in Mexico City. </p>
+          <p>From 2005 to 2008 I worked as a senior web and software developer for Lightsoft Multimedia Consultants, a software,web and design solutions company in Mexico City. 
+            My role as a senior web developer allowed me to work with the latest technologies for web development and gaining valuable experience in .Net frameworks 1.1, 2.0 and 3.0 , Java , Ajax, Adobe Flex, PHP, the use of JavaScript in conjunction with . I also became familiar with incorporating different JavaScript libraries such as Mootools, Lytebox and Scriptaculous for dynamic layouts.
+            Besides my primary duties as a web developer I had the opportunity to work as a database designer and administrator and helped develop of small OLAP cubes. </p>
+          <p>During my time at Lightsoft Multimedia Consultants, my interest in new technologies led me to work as part of the new technologies research team. In this position I provided education, advice, and solutions on the implementation of new web technologies for the company. An example of my work is the use of interactive maps with the Google maps and Microsoft bing maps APIs, comparison prototypes between Microsoft silverlight and Adobe Flex and the development of applications for classic iPod devices. </p>
+          <p>In addition to my education, my international professional development includes a Telecommunications course in Paris, France, and Culture, job Ethics and Principles course in Prague, Czech Republic. By studying in foreign countries I have learned the importance of team work and creative problem solving when working in a culturally diverse environment. During my time in Australia I collaborated on diverse projects such as a small facebook scripts for the Artist Cynthia Granados, php coding and user interface programmer for Leanne Trinder, among others, either as a volunteer or part time worker. I want to use my knowledge and training to help create a better experience between the user and the application environment. </p>
+          </strong> </div>
+      </div>
+      <div id="projects" >
+        <div id="contentPr"> A little bit of my stuff...
+          <ul>
+            <li> <a target="_blank" href="http://rodrigodlg.eu5.org/hand/index.html"> <img src="images/projects/facebook.png" /><strong>facebook</strong> <br/>
+              <span>Small web site, that uses the current facebook session (if any), to display an animation over the facebook screen.</span> Javascript and CSS </a> </li>
+            <li> <a target="_blank" href="http://rodrigodlg.somee.com/mapsRodrigo/default.aspx"> <img src="images/projects/MetroPlanner.png" /><strong>Metro journey planner</strong> <br/>
+              <span>Prototype web site for tourism kiosk, using Google maps and dijkstra algorithm, the site simulates the better route between two subway stations for the historical center of Mexico City.</span> Javascript, CSS, goole maps Api and C# .net </a> </li>
+            <li> <a target="_blank" href="http://www.youtube.com/watch?v=G9AnZ4xUb5M"> <img src="images/projects/videoImage1.png" /><strong>Video manipulation</strong> <br/>
+              <span>Prototype application for video manipulation, using convolution matrix transformation and manipulation of integers and bytes arrays, the application provides basic manipulation for images and video files.</span> Java JMF. 
+               </a> 
+              <div>
+              <a href="images/projects/VideoCaps/videoImage.jpg" rel="lytebox[ImgVideo]" title="Negative transformation">[Captions]</a> 
+              <a href="images/projects/VideoCaps/videoImage1.jpg" rel="lytebox[ImgVideo]" title="Edges of the image"></a> 		
+              <a href="images/projects/VideoCaps/videoImage2.jpg" rel="lytebox[ImgVideo]" title="Sharpen image"></a> 
+              <a href="images/projects/VideoCaps/videoImage3.jpg" rel="lytebox[ImgVideo]" title="Black and white transformation"></a> 
+              </div> 
+               </li>
+          </ul>
+          <div class="clear"></div>
+          <div id="content"> </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<div id="footer">
+  <p><a href="http://bit.ly/digitalbusinesscard" target="_blank">Theme base on The DBC Theme</a></p>
+</div>
+<script type="text/javascript" charset="utf-8"> 
+  $('#content a').each(function () {
+    $('<div class="fader" />').css('opacity', 0).prependTo(this);
+  }).hover(function () {
+    $('img', this).stop().animate({
+      marginLeft : 0
+    }, 150);
+    
+    $('.fader', this).stop().animate({
+      opacity : 0.15
+    });
+    
+  }, function () {
+    $('img', this).stop().animate({
+      marginLeft : 10
+    }, 150);
+    
+    $('.fader', this).stop().animate({
+      opacity : 0
+    });
+  }).find('img').css('marginLeft', 10);
+  
+  $('.navigation').each(function () {
+    var $links = $(this).find('a'),
+      panelIds = $links.map(function() { return this.hash; }).get().join(","),
+      $panels = $(panelIds),
+      $panelwrapper = $panels.filter(':last').parent(),
+      delay = 500,
+      heightOffset = 0;
+       // we could add margin-top + margin-bottom + padding-top + padding-bottom of $panelwrapper
+      
+    $panels.hide();
+    
+    $links.click(function () {
+      var link = this, 
+        $link = $(this);
+      
+      // ignore if already visible
+      if ($link.is('.active')) {
+        return false;
+      }
+      
+      $links.removeClass('active');
+      $link.addClass('active');
+      
+      document.title = 'Rodrigo J. De la garza - ' + $link.text();
+              
+      if ($.support.opacity) {
+        $panels.stop().animate({opacity: 0 }, delay);
+      }
+      
+      $panelwrapper.stop().animate({
+        height: 0
+      }, delay, function () {
+        var height = $panels.hide().filter(link.hash).css('opacity', 1).show().height() + heightOffset;
+        
+        $panelwrapper.animate({
+          height: height
+        }, delay);
+      });
+    });
+    
+    $links.filter(window.location.hash ? '[hash=' + window.location.hash + ']' : ':last').click();
+  });
+</script>
+</body>
+</html>

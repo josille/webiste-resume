@@ -1,0 +1,130 @@
+/* Space out content a bit */
+body {
+  padding-top: 70px;
+  padding-bottom: 20px;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile-first views */
+.header,
+.marketing,
+.footer {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Custom page header */
+.header {
+  border-bottom: 1px solid #e5e5e5;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  padding-bottom: 19px;
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+/* Custom container */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 900px;
+}
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+  
+  padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 40px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+p{
+font-size:12px;
+text-align:left;
+}
+
+address{
+padding-top:30px;
+font-size:14px;
+text-align:left;
+}
+
+.margin_right_15{
+margin-right:15px;
+}
+
+.aboutMeFirstParagraph:first-letter {
+    color: #333333;
+    font-size: xx-large;
+}
+
+.text-muted,p {
+    color: #333333;
+}
+
+.navbar{
+background-color:#333333;
+}
+
+
+.padding_right_5{
+padding-right:5px;
+}
+
+.padding_left_5{
+padding-left:5px;
+}
+
+.padding_left_none{
+padding-left:0px;
+}
+
+.padding_right_none{
+padding-right:0px;
+}
+
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  /* Space out the masthead */
+  .header {
+   margin-bottom:1px;
+	border-bottom:none;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
+}
