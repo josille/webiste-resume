@@ -6,6 +6,7 @@ $('#myTab a').click(function (e) {
 })
 
 $('#myTab a[href="#projects"]').click(function (e) {
+e.preventDefault();
  $('#info').hide();
 })
 
